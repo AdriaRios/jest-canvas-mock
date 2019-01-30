@@ -1,7 +1,7 @@
 {
-  "name": "jest-canvas-mock",
-  "version": "1.1.1-beta.1",
-  "description": "A module to mock canvas in Jest.",
+  "name": "jest-mock-canvas-to-blob",
+  "version": "1.0.0",
+  "description": "DEPRECATED See (https://github.com/hustcc/jest-canvas-mock/issues). A module to mock canvas in Jest. ",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --no-cache",
